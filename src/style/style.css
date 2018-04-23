@@ -1,0 +1,20 @@
+.invalid{
+  color: red;
+}
+
+.post-cancel-button{
+  margin-left: 20px;
+}
+
+.home-addPost-button{
+  float:right;
+  padding-right:15px;
+}
+
+.posts-container{
+  margin-top:50px;
+}
+
+.add-post-page{
+  margin-top:50px;
+}
